@@ -44,9 +44,73 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u4F50"
+      - 
+      - "\u5C37\u5C2C"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - A1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - A3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u9EDB"
+      - 
+      - "\u5FAE\u7B11"
+      - 
+      - 
+      - 
+      - 
+      - .35
+      - 
+      - B1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - B2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/995410/Scenarios/995410.xls:Character
     type: 1
-    textLength: 166
+    textLength: 211
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 3fc41b57de9f9a74a963a35a173ed61f, type: 3}
   - rows:
