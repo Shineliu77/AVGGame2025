@@ -136,9 +136,54 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u65E9\u4E0A"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - Morning.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u4E2D\u5348"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - Afternoon.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u665A\u4E0A"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - Night.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/995410/Scenarios/995410.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 160
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 3fc41b57de9f9a74a963a35a173ed61f, type: 3}
   - rows:
@@ -179,9 +224,42 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u4E2D\u9593"
+      - Character
+      - 0
+      - 0
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u5DE6\u908A"
+      - Character
+      - -250
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u53F3\u908A"
+      - Character
+      - 250
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/995410/Scenarios/995410.xls:Layer
     type: 1
-    textLength: 109
+    textLength: 162
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 3fc41b57de9f9a74a963a35a173ed61f, type: 3}
   - rows:
@@ -348,9 +426,19 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u80CC\u666F\u97F3\u6A021"
+      - 
+      - Bgm
+      - BGM01.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/995410/Scenarios/995410.xls:Sound
     type: 1
-    textLength: 37
+    textLength: 54
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 3fc41b57de9f9a74a963a35a173ed61f, type: 3}
   - rows:
