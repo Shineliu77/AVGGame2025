@@ -85,13 +85,13 @@ MonoBehaviour:
   m_text: "\u9078\u629E\u80A2"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 67376f4233aa7d4439b37e9bf69cc5d5, type: 2}
-  m_sharedMaterial: {fileID: 5448154608910584420, guid: 9b114c323dac24b46a945b0bcea1066b, type: 2}
+  m_sharedMaterial: {fileID: -1686075178704036061, guid: 67376f4233aa7d4439b37e9bf69cc5d5, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
+    rgba: 4278190335
   m_fontColor: {r: 1, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -222,7 +222,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: b272824769417df4cb38d6908ccc8ec3, type: 3}
   m_Type: 0
-  m_PreserveAspect: 1
+  m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
